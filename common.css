@@ -5,21 +5,7 @@
     src: url('./cinecaption226.ttf') format('truetype');
 }
 
-body1 {
-	margin: 0;
-	padding: 0;
-	background-image: url(p4164.jpg);
-	background-size:cover;
-	background-repeat: no-repeat;
-	background-attachment: fixed;
-	background-position: right bottom;
-	color: white;
-	font-family: "しねきゃぷしょん" , "メイリオ", Meiryo, "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
-	font-size: 87.5%;
-	line-height: 1.5em;
-}
-
-body2 {
+body {
 	margin: 0;
 	padding: 0;
 	background-image: url(p4164.gif);
