@@ -11,6 +11,7 @@ body {
 	buckground-size: cover;
 	buckground-attachment: fixed;
 	buckground-position: center center;
+	buckground-repeat: no-repeat;
 	color: white;
 	font-family: "しねきゃぷしょん" , "メイリオ", Meiryo, "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
 	font-size: 87.5%;
