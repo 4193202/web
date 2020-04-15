@@ -7,21 +7,12 @@
 body {
 	margin: 0;
 	padding: 0;
-	buckground-size: contain;
-	buckground-attachment: fixed;
 	background-image: url(p4164.jpg);
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: right bottom
 	color: white;
 	font-family: "しねきゃぷしょん" , "メイリオ", Meiryo, "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
 	font-size: 87.5%;
 	line-height: 1.5em;
-}
-#contents {
-	width: 800px;
-	margin: 0 auto 0 auto;
-	overflow: hidden;
-}
-#main {
-	width: 570px;
-	margin-bottom: 30px;
-	float: left;
 }
