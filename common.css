@@ -8,13 +8,11 @@ body {
 	margin: 0;
 	padding: 0;
 	background-color: #000000;
-	background: no-repeat center center/cover url(p4164.gif);
-	/*
+	background-image: url(p4164.gif);
 	buckground-repeat: no-repeat;
 	buckground-size: cover;
-	*/
 	buckground-attachment: fixed;
-	/*buckground-position: center center;*/
+	buckground-position: center center;
 	color: white;
 	font-family: "しねきゃぷしょん" , "メイリオ", Meiryo, "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
 	font-size: 87.5%;
