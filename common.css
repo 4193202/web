@@ -8,7 +8,7 @@ body {
 	margin: 0;
 	padding: 0;
 	background-color: #000000;
-	background: no-repeat center/contain url(p4164.gif);
+	background: no-repeat /contain url(p4164.gif);
 	/*
 	buckground-repeat: no-repeat;
 	buckground-size: cover;
