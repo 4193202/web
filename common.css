@@ -8,13 +8,24 @@
 body {
 	margin: 0;
 	padding: 0;
+	color: white;
+	font-family: "しねきゃぷしょん" , "メイリオ", Meiryo, "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
+	font-size: 87.5%;
+	line-height: 1.5em;
+}
+
+main1 {
 	background-image: url(back.gif);
 	background-size:cover;
 	background-repeat: no-repeat;
 	background-attachment: fixed;
 	background-position: left top;
-	color: white;
-	font-family: "しねきゃぷしょん" , "メイリオ", Meiryo, "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
-	font-size: 87.5%;
-	line-height: 1.5em;
+}
+
+main2 {
+	background-image: url(back.gif);
+	background-size:cover;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: left top;
 }
